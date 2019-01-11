@@ -1,0 +1,2 @@
+# sthgo
+something of golang
